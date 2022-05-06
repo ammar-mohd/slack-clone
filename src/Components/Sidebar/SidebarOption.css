@@ -1,0 +1,94 @@
+.sidebarOption {
+  display: flex;
+  align-items: center;
+  font-size: 12px;
+  padding-left: 2px;
+  cursor: pointer;
+}
+.sidebarOption:hover {
+  opacity: 0.9;
+  background-color: #340e36;
+}
+
+.sidebarOption-icon {
+  padding: 10px;
+  font-size: 15px;
+}
+
+.sidebarOption-channel {
+  padding: 10px 0;
+}
+
+.sidebarOption > h3 {
+  font-weight: 500;
+}
+
+.sidebarOption-hash {
+  padding: 10px;
+}
+
+.css-1wnsr1i {
+  padding: 0 !important;
+  max-width: 500px !important;
+  width: 500px !important;
+  border: none !important;
+  outline: none !important;
+  border-radius: 5px !important;
+  -webkit-border-radius: 5px !important;
+  -moz-border-radius: 5px !important;
+  -ms-border-radius: 5px !important;
+  -o-border-radius: 5px !important;
+}
+
+.css-2ulfj5-MuiTypography-root {
+  background-color: #340e36 !important;
+  color: #fff !important;
+  padding: 20px !important;
+  text-align: center !important;
+  border-top-left-radius: 5px !important;
+  border-top-right-radius: 5px !important;
+}
+
+.css-ix1f03-MuiTypography-root {
+  padding: 0 20px !important;
+}
+
+.css-ix1f03-MuiTypography-root > input {
+  width: 95% !important;
+  margin: auto !important;
+  outline: none !important;
+  padding: 10px !important;
+  border: none !important;
+  border-bottom: 1px solid #340e36 !important;
+  font-size: 18px !important;
+}
+
+.css-ix1f03-MuiTypography-root > button.save {
+  padding: 10px 40px !important;
+  outline: none !important;
+  margin: 20px 0 !important;
+  background-color: #340e36 !important;
+  color: #fff !important;
+  border: none !important;
+  border-radius: 5px !important;
+  -webkit-border-radius: 5px !important;
+  -moz-border-radius: 5px !important;
+  -ms-border-radius: 5px !important;
+  -o-border-radius: 5px !important;
+  cursor: pointer;
+}
+
+.css-ix1f03-MuiTypography-root > button.cancel {
+  padding: 10px 40px !important;
+  outline: none !important;
+  margin: 20px 10px !important;
+  background-color: lightgray !important;
+  color: #340e36 !important;
+  border: none !important;
+  border-radius: 5px !important;
+  -webkit-border-radius: 5px !important;
+  -moz-border-radius: 5px !important;
+  -ms-border-radius: 5px !important;
+  -o-border-radius: 5px !important;
+  cursor: pointer;
+}
